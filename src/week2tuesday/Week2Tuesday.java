@@ -16,6 +16,7 @@ public class Week2Tuesday {
      */
     public static void main(String[] args) {
         System.out.println("learn the github");
+        System.out.println("This is the second message");
     }
     
 }
